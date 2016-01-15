@@ -9,3 +9,4 @@ Anyways, let me know!
 Signed,
 
 - Kyle Robinson Young ([@shama](https://github.com/shama)), friendship core team member
+- Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer and taco enthusiast
