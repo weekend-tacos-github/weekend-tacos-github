@@ -10,3 +10,4 @@ Signed,
 
 - Kyle Robinson Young ([@shama](https://github.com/shama)), friendship core team member
 - Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer and taco enthusiast
+- Josh Manders ([@joshmanders](https://github.com/joshmanders)), 🌮 groupie.
